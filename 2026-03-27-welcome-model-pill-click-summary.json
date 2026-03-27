@@ -1,0 +1,20 @@
+{
+    "clicked":  true,
+    "rect":  {
+                 "x":  1105.041748046875,
+                 "y":  449.1458435058594,
+                 "width":  169.2916717529297,
+                 "height":  28,
+                 "top":  449.1458435058594,
+                 "right":  1274.3334197998047,
+                 "bottom":  477.1458435058594,
+                 "left":  1105.041748046875
+             },
+    "before_overlays":  0,
+    "after_dialogs":  0,
+    "before_ariaExpanded":  null,
+    "after_ariaExpanded":  null,
+    "activeElementAfter":  "Skip to main content\nVibe\nIDE\nOpen File\nFile\nEdit\nSelection\nView\nGo\nTerminal\nHelp\nHome — repo-one\nconfig\nrepo-one\none.txt\nrepo-one-note.txt\nHey, start building or open your project.\nBuild\nClaude-Opus-4.5\nOpen Project\nOpen File\nCtrl+O\nOpen Folder\nCtrl+Shift+O\nClone Repository\nCtrl+Shift+G\nNew File\nCtrl+N\nrepo-one-branch\nCode Navigation Help\nToken Limit\n0%",
+    "fullHashesEqual":  true,
+    "regionHashesEqual":  true
+}
